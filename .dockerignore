@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.db
+*.log
+frontend/
+frontend_latest/
+*.zip
+*.png
+*.docx
